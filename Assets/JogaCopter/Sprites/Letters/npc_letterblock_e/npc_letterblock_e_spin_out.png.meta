@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: c2abe61f268b0a74a954b9c747cd45f9
+timeCreated: 1426250578
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_letterblock_e_spin_out_0
+    21300002: npc_letterblock_e_spin_out_1
+    21300004: npc_letterblock_e_spin_out_2
+    21300006: npc_letterblock_e_spin_out_3
+    21300008: npc_letterblock_e_spin_out_4
+    21300010: npc_letterblock_e_spin_out_5
+    21300012: npc_letterblock_e_spin_out_6
+    21300014: npc_letterblock_e_spin_out_7
+    21300016: npc_letterblock_e_spin_out_8
+    21300018: npc_letterblock_e_spin_out_9
+    21300020: npc_letterblock_e_spin_out_10
+    21300022: npc_letterblock_e_spin_out_11
+    21300024: npc_letterblock_e_spin_out_12
+    21300026: npc_letterblock_e_spin_out_13
+    21300028: npc_letterblock_e_spin_out_14
+    21300030: npc_letterblock_e_spin_out_15
+    21300032: npc_letterblock_e_spin_out_16
+    21300034: npc_letterblock_e_spin_out_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 600
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: npc_letterblock_e_spin_out_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 492
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_e_spin_out_1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 492
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_e_spin_out_2
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 491
+        width: 111
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_e_spin_out_3
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 491
+        width: 111
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_e_spin_out_4
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 492
+        width: 112
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_e_spin_out_5
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 492
+        width: 112
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_e_spin_out_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 295
+        width: 136
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_e_spin_out_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 296
+        width: 125
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_e_spin_out_8
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 295
+        width: 136
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_e_spin_out_9
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 296
+        width: 125
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_e_spin_out_10
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 295
+        width: 136
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_e_spin_out_11
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 296
+        width: 125
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_e_spin_out_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 99
+        width: 136
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_e_spin_out_13
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 100
+        width: 125
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_e_spin_out_14
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 99
+        width: 136
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_e_spin_out_15
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 100
+        width: 125
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_e_spin_out_16
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 99
+        width: 136
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_e_spin_out_17
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 100
+        width: 126
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

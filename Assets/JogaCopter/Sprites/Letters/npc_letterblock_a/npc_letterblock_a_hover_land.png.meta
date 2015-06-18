@@ -1,0 +1,355 @@
+fileFormatVersion: 2
+guid: 49367088ab2298f4c8403faabd5634c4
+timeCreated: 1426249622
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_letterblock_a__x1_hover_land_0
+    21300002: npc_letterblock_a__x1_hover_land_1
+    21300004: npc_letterblock_a__x1_hover_land_2
+    21300006: npc_letterblock_a__x1_hover_land_3
+    21300008: npc_letterblock_a__x1_hover_land_4
+    21300010: npc_letterblock_a__x1_hover_land_5
+    21300012: npc_letterblock_a__x1_hover_land_6
+    21300014: npc_letterblock_a__x1_hover_land_7
+    21300016: npc_letterblock_a__x1_hover_land_8
+    21300018: npc_letterblock_a__x1_hover_land_9
+    21300020: npc_letterblock_a__x1_hover_land_10
+    21300022: npc_letterblock_a__x1_hover_land_11
+    21300024: npc_letterblock_a__x1_hover_land_12
+    21300026: npc_letterblock_a__x1_hover_land_13
+    21300028: npc_letterblock_a__x1_hover_land_14
+    21300030: npc_letterblock_a__x1_hover_land_15
+    21300032: npc_letterblock_a__x1_hover_land_16
+    21300034: npc_letterblock_a__x1_hover_land_17
+    21300036: npc_letterblock_a__x1_hover_land_18
+    21300038: npc_letterblock_a__x1_hover_land_19
+    21300040: npc_letterblock_a__x1_hover_land_20
+    21300042: npc_letterblock_a__x1_hover_land_21
+    21300044: npc_letterblock_a__x1_hover_land_22
+    21300046: npc_letterblock_a__x1_hover_land_23
+    21300048: npc_letterblock_a__x1_hover_land_24
+    21300050: npc_letterblock_a_hover_land_0
+    21300052: npc_letterblock_a_hover_land_1
+    21300054: npc_letterblock_a_hover_land_2
+    21300056: npc_letterblock_a_hover_land_3
+    21300058: npc_letterblock_a_hover_land_4
+    21300060: npc_letterblock_a_hover_land_5
+    21300062: npc_letterblock_a_hover_land_6
+    21300064: npc_letterblock_a_hover_land_7
+    21300066: npc_letterblock_a_hover_land_8
+    21300068: npc_letterblock_a_hover_land_9
+    21300070: npc_letterblock_a_hover_land_10
+    21300072: npc_letterblock_a_hover_land_11
+    21300074: npc_letterblock_a_hover_land_12
+    21300076: npc_letterblock_a_hover_land_13
+    21300078: npc_letterblock_a_hover_land_14
+    21300080: npc_letterblock_a_hover_land_15
+    21300082: npc_letterblock_a_hover_land_16
+    21300084: npc_letterblock_a_hover_land_17
+    21300086: npc_letterblock_a_hover_land_18
+    21300088: npc_letterblock_a_hover_land_19
+    21300090: npc_letterblock_a_hover_land_20
+    21300092: npc_letterblock_a_hover_land_21
+    21300094: npc_letterblock_a_hover_land_22
+    21300096: npc_letterblock_a_hover_land_23
+    21300098: npc_letterblock_a_hover_land_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 600
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: npc_letterblock_a_hover_land_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 688
+        width: 98
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_land_1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 688
+        width: 98
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_land_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 687
+        width: 98
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_land_3
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 685
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_land_4
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 683
+        width: 98
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_land_5
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 679
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_land_6
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 674
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_land_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 472
+        width: 98
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_land_8
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 462
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_land_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 450
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_land_10
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 433
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_land_11
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 420
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_land_12
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 406
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_land_13
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 392
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_land_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 196
+        width: 104
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_land_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 196
+        width: 104
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_land_16
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 196
+        width: 102
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_land_17
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 196
+        width: 100
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_land_18
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 196
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_land_19
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 196
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_land_20
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 196
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_land_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_land_22
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 0
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_land_23
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_land_24
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 0
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

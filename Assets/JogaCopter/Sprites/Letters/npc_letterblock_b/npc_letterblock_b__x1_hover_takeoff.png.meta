@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: 7d775ff89fa3da14b9ef32c27f5d7085
+timeCreated: 1426248670
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_letterblock_b__x1_hover_takeoff_0
+    21300002: npc_letterblock_b__x1_hover_takeoff_1
+    21300004: npc_letterblock_b__x1_hover_takeoff_2
+    21300006: npc_letterblock_b__x1_hover_takeoff_3
+    21300008: npc_letterblock_b__x1_hover_takeoff_4
+    21300010: npc_letterblock_b__x1_hover_takeoff_5
+    21300012: npc_letterblock_b__x1_hover_takeoff_6
+    21300014: npc_letterblock_b__x1_hover_takeoff_7
+    21300016: npc_letterblock_b__x1_hover_takeoff_8
+    21300018: npc_letterblock_b__x1_hover_takeoff_9
+    21300020: npc_letterblock_b__x1_hover_takeoff_10
+    21300022: npc_letterblock_b__x1_hover_takeoff_11
+    21300024: npc_letterblock_b__x1_hover_takeoff_12
+    21300026: npc_letterblock_b__x1_hover_takeoff_13
+    21300028: npc_letterblock_b__x1_hover_takeoff_14
+    21300030: npc_letterblock_b__x1_hover_takeoff_15
+    21300032: npc_letterblock_b__x1_hover_takeoff_16
+    21300034: npc_letterblock_b__x1_hover_takeoff_17
+    21300036: npc_letterblock_b__x1_hover_takeoff_18
+    21300038: npc_letterblock_b__x1_hover_takeoff_19
+    21300040: npc_letterblock_b__x1_hover_takeoff_20
+    21300042: npc_letterblock_b__x1_hover_takeoff_21
+    21300044: npc_letterblock_b__x1_hover_takeoff_22
+    21300046: npc_letterblock_b__x1_hover_takeoff_23
+    21300048: npc_letterblock_b__x1_hover_takeoff_24
+    21300050: npc_letterblock_b__x1_hover_takeoff_25
+    21300052: npc_letterblock_b__x1_hover_takeoff_26
+    21300054: npc_letterblock_b__x1_hover_takeoff_27
+    21300056: npc_letterblock_b__x1_hover_takeoff_28
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 600
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: npc_letterblock_b__x1_hover_takeoff_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 784
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_b__x1_hover_takeoff_1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 784
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_b__x1_hover_takeoff_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 784
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_b__x1_hover_takeoff_3
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 784
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_b__x1_hover_takeoff_4
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 784
+        width: 100
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_b__x1_hover_takeoff_5
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 784
+        width: 102
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_b__x1_hover_takeoff_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 588
+        width: 104
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_b__x1_hover_takeoff_7
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 588
+        width: 104
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_b__x1_hover_takeoff_8
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 588
+        width: 104
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_b__x1_hover_takeoff_9
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 588
+        width: 104
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_b__x1_hover_takeoff_10
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 588
+        width: 102
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_b__x1_hover_takeoff_11
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 588
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_b__x1_hover_takeoff_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 392
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_b__x1_hover_takeoff_13
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 393
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_b__x1_hover_takeoff_14
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 397
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_b__x1_hover_takeoff_15
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 404
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_b__x1_hover_takeoff_16
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 414
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_b__x1_hover_takeoff_17
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 426
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_b__x1_hover_takeoff_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 246
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_b__x1_hover_takeoff_19
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 265
+        width: 98
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_b__x1_hover_takeoff_20
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 272
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_b__x1_hover_takeoff_21
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 278
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_b__x1_hover_takeoff_22
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 284
+        width: 98
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_b__x1_hover_takeoff_23
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 288
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_b__x1_hover_takeoff_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 95
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_b__x1_hover_takeoff_25
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 98
+        width: 98
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_b__x1_hover_takeoff_26
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 99
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_b__x1_hover_takeoff_27
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 100
+        width: 98
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_b__x1_hover_takeoff_28
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 100
+        width: 98
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

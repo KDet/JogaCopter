@@ -1,0 +1,583 @@
+fileFormatVersion: 2
+guid: eb1d5c7e280ca6d428cf19d1d3f871ff
+timeCreated: 1425637837
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_0
+    21300002: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_1
+    21300004: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_2
+    21300006: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_3
+    21300008: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_4
+    21300010: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_5
+    21300012: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_6
+    21300014: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_7
+    21300016: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_8
+    21300018: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_9
+    21300020: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_10
+    21300022: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_11
+    21300024: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_12
+    21300026: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_13
+    21300028: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_14
+    21300030: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_15
+    21300032: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_16
+    21300034: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_17
+    21300036: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_18
+    21300038: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_19
+    21300040: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_20
+    21300042: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_21
+    21300044: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_22
+    21300046: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_23
+    21300048: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_24
+    21300050: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_25
+    21300052: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_26
+    21300054: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_27
+    21300056: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_28
+    21300058: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_29
+    21300060: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_30
+    21300062: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_31
+    21300064: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_32
+    21300066: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_33
+    21300068: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_34
+    21300070: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_35
+    21300072: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_36
+    21300074: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_37
+    21300076: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_38
+    21300078: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_39
+    21300080: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_40
+    21300082: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_41
+    21300084: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_42
+    21300086: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_43
+    21300088: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_44
+    21300090: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_45
+    21300092: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_46
+    21300094: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_47
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 507
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 507
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_2
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 507
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_3
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 507
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_4
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 507
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_5
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 507
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_6
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 507
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_7
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 507
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 413
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_9
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 413
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_10
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 413
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 413
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_12
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 413
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_13
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 413
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_14
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 413
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_15
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 413
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 319
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_17
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 319
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_18
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 319
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_19
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 319
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_20
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 319
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_21
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 319
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_22
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 319
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_23
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 319
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_24
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 225
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_25
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 225
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_26
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 225
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_27
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 225
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_28
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 225
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_29
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 225
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_30
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 225
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_31
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 225
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_32
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 131
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_33
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 131
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_34
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 131
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_35
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 131
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_36
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 131
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_37
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 131
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_38
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 131
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_39
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 131
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_40
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 37
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_41
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 37
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_42
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 37
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_43
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 37
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_44
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 37
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_45
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 37
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_46
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 37
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_idle_png_1354833542_47
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 37
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

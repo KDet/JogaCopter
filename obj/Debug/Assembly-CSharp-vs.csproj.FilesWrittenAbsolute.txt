@@ -1,0 +1,14 @@
+/Users/dima/Documents/My code samples/JogaCopter/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/dima/Documents/My code samples/JogaCopter/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/dima/Documents/My code samples/JogaCopter/obj/Debug/Assembly-CSharp.dll
+/Users/dima/Documents/My code samples/JogaCopter/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/dima/Documents/My code samples/JogaCopter/Temp/bin/Debug/UnityEngine.dll
+/Users/dima/Documents/My code samples/JogaCopter/Temp/bin/Debug/UnityEditor.dll
+/Users/dima/Documents/My code samples/JogaCopter/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/dima/Documents/My code samples/JogaCopter/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/dima/Documents/My code samples/JogaCopter/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/dima/Documents/My code samples/JogaCopter/Temp/bin/Debug/Mono.Cecil.dll
+/Users/dima/Documents/My code samples/JogaCopter/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/dima/Documents/My code samples/JogaCopter/Temp/bin/Debug/Unity.DataContract.dll
+/Users/dima/Documents/My code samples/JogaCopter/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/dima/Documents/My code samples/JogaCopter/Temp/bin/Debug/Unity.CecilTools.dll

@@ -1,0 +1,5 @@
+5.1.0f3:1.9.8.0
+D:/Unity5/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+D:/Unity5/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+D:/Unity5/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
+D:/Unity5/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll

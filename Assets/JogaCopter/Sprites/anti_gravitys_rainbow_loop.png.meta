@@ -1,0 +1,775 @@
+fileFormatVersion: 2
+guid: 7a12eacc941ad7845bc020f261777656
+timeCreated: 1426602256
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: anti_gravitys_rainbow__x1_loop_png_1354837031_0
+    21300002: anti_gravitys_rainbow__x1_loop_png_1354837031_1
+    21300004: anti_gravitys_rainbow__x1_loop_png_1354837031_2
+    21300006: anti_gravitys_rainbow__x1_loop_png_1354837031_3
+    21300008: anti_gravitys_rainbow__x1_loop_png_1354837031_4
+    21300010: anti_gravitys_rainbow__x1_loop_png_1354837031_5
+    21300012: anti_gravitys_rainbow__x1_loop_png_1354837031_6
+    21300014: anti_gravitys_rainbow__x1_loop_png_1354837031_7
+    21300016: anti_gravitys_rainbow__x1_loop_png_1354837031_8
+    21300018: anti_gravitys_rainbow__x1_loop_png_1354837031_9
+    21300020: anti_gravitys_rainbow__x1_loop_png_1354837031_10
+    21300022: anti_gravitys_rainbow__x1_loop_png_1354837031_11
+    21300024: anti_gravitys_rainbow__x1_loop_png_1354837031_12
+    21300026: anti_gravitys_rainbow__x1_loop_png_1354837031_13
+    21300028: anti_gravitys_rainbow__x1_loop_png_1354837031_14
+    21300030: anti_gravitys_rainbow__x1_loop_png_1354837031_15
+    21300032: anti_gravitys_rainbow__x1_loop_png_1354837031_16
+    21300034: anti_gravitys_rainbow__x1_loop_png_1354837031_17
+    21300036: anti_gravitys_rainbow__x1_loop_png_1354837031_18
+    21300038: anti_gravitys_rainbow__x1_loop_png_1354837031_19
+    21300040: anti_gravitys_rainbow__x1_loop_png_1354837031_20
+    21300042: anti_gravitys_rainbow__x1_loop_png_1354837031_21
+    21300044: anti_gravitys_rainbow__x1_loop_png_1354837031_22
+    21300046: anti_gravitys_rainbow__x1_loop_png_1354837031_23
+    21300048: anti_gravitys_rainbow__x1_loop_png_1354837031_24
+    21300050: anti_gravitys_rainbow__x1_loop_png_1354837031_25
+    21300052: anti_gravitys_rainbow__x1_loop_png_1354837031_26
+    21300054: anti_gravitys_rainbow__x1_loop_png_1354837031_27
+    21300056: anti_gravitys_rainbow__x1_loop_png_1354837031_28
+    21300058: anti_gravitys_rainbow__x1_loop_png_1354837031_29
+    21300060: anti_gravitys_rainbow__x1_loop_png_1354837031_30
+    21300062: anti_gravitys_rainbow__x1_loop_png_1354837031_31
+    21300064: anti_gravitys_rainbow__x1_loop_png_1354837031_32
+    21300066: anti_gravitys_rainbow__x1_loop_png_1354837031_33
+    21300068: anti_gravitys_rainbow__x1_loop_png_1354837031_34
+    21300070: anti_gravitys_rainbow__x1_loop_png_1354837031_35
+    21300072: anti_gravitys_rainbow__x1_loop_png_1354837031_36
+    21300074: anti_gravitys_rainbow__x1_loop_png_1354837031_37
+    21300076: anti_gravitys_rainbow__x1_loop_png_1354837031_38
+    21300078: anti_gravitys_rainbow__x1_loop_png_1354837031_39
+    21300080: anti_gravitys_rainbow__x1_loop_png_1354837031_40
+    21300082: anti_gravitys_rainbow__x1_loop_png_1354837031_41
+    21300084: anti_gravitys_rainbow__x1_loop_png_1354837031_42
+    21300086: anti_gravitys_rainbow__x1_loop_png_1354837031_43
+    21300088: anti_gravitys_rainbow__x1_loop_png_1354837031_44
+    21300090: anti_gravitys_rainbow__x1_loop_png_1354837031_45
+    21300092: anti_gravitys_rainbow__x1_loop_png_1354837031_46
+    21300094: anti_gravitys_rainbow__x1_loop_png_1354837031_47
+    21300096: anti_gravitys_rainbow__x1_loop_png_1354837031_48
+    21300098: anti_gravitys_rainbow__x1_loop_png_1354837031_49
+    21300100: anti_gravitys_rainbow__x1_loop_png_1354837031_50
+    21300102: anti_gravitys_rainbow__x1_loop_png_1354837031_51
+    21300104: anti_gravitys_rainbow__x1_loop_png_1354837031_52
+    21300106: anti_gravitys_rainbow__x1_loop_png_1354837031_53
+    21300108: anti_gravitys_rainbow__x1_loop_png_1354837031_54
+    21300110: anti_gravitys_rainbow__x1_loop_png_1354837031_55
+    21300112: anti_gravitys_rainbow__x1_loop_png_1354837031_56
+    21300114: anti_gravitys_rainbow__x1_loop_png_1354837031_57
+    21300116: anti_gravitys_rainbow__x1_loop_png_1354837031_58
+    21300118: anti_gravitys_rainbow__x1_loop_png_1354837031_59
+    21300120: anti_gravitys_rainbow_loop_0
+    21300122: anti_gravitys_rainbow_loop_1
+    21300124: anti_gravitys_rainbow_loop_2
+    21300126: anti_gravitys_rainbow_loop_3
+    21300128: anti_gravitys_rainbow_loop_4
+    21300130: anti_gravitys_rainbow_loop_5
+    21300132: anti_gravitys_rainbow_loop_6
+    21300134: anti_gravitys_rainbow_loop_7
+    21300136: anti_gravitys_rainbow_loop_8
+    21300138: anti_gravitys_rainbow_loop_9
+    21300140: anti_gravitys_rainbow_loop_10
+    21300142: anti_gravitys_rainbow_loop_11
+    21300144: anti_gravitys_rainbow_loop_12
+    21300146: anti_gravitys_rainbow_loop_13
+    21300148: anti_gravitys_rainbow_loop_14
+    21300150: anti_gravitys_rainbow_loop_15
+    21300152: anti_gravitys_rainbow_loop_16
+    21300154: anti_gravitys_rainbow_loop_17
+    21300156: anti_gravitys_rainbow_loop_18
+    21300158: anti_gravitys_rainbow_loop_19
+    21300160: anti_gravitys_rainbow_loop_20
+    21300162: anti_gravitys_rainbow_loop_21
+    21300164: anti_gravitys_rainbow_loop_22
+    21300166: anti_gravitys_rainbow_loop_23
+    21300168: anti_gravitys_rainbow_loop_24
+    21300170: anti_gravitys_rainbow_loop_25
+    21300172: anti_gravitys_rainbow_loop_26
+    21300174: anti_gravitys_rainbow_loop_27
+    21300176: anti_gravitys_rainbow_loop_28
+    21300178: anti_gravitys_rainbow_loop_29
+    21300180: anti_gravitys_rainbow_loop_30
+    21300182: anti_gravitys_rainbow_loop_31
+    21300184: anti_gravitys_rainbow_loop_32
+    21300186: anti_gravitys_rainbow_loop_33
+    21300188: anti_gravitys_rainbow_loop_34
+    21300190: anti_gravitys_rainbow_loop_35
+    21300192: anti_gravitys_rainbow_loop_36
+    21300194: anti_gravitys_rainbow_loop_37
+    21300196: anti_gravitys_rainbow_loop_38
+    21300198: anti_gravitys_rainbow_loop_39
+    21300200: anti_gravitys_rainbow_loop_40
+    21300202: anti_gravitys_rainbow_loop_41
+    21300204: anti_gravitys_rainbow_loop_42
+    21300206: anti_gravitys_rainbow_loop_43
+    21300208: anti_gravitys_rainbow_loop_44
+    21300210: anti_gravitys_rainbow_loop_45
+    21300212: anti_gravitys_rainbow_loop_46
+    21300214: anti_gravitys_rainbow_loop_47
+    21300216: anti_gravitys_rainbow_loop_48
+    21300218: anti_gravitys_rainbow_loop_49
+    21300220: anti_gravitys_rainbow_loop_50
+    21300222: anti_gravitys_rainbow_loop_51
+    21300224: anti_gravitys_rainbow_loop_52
+    21300226: anti_gravitys_rainbow_loop_53
+    21300228: anti_gravitys_rainbow_loop_54
+    21300230: anti_gravitys_rainbow_loop_55
+    21300232: anti_gravitys_rainbow_loop_56
+    21300234: anti_gravitys_rainbow_loop_57
+    21300236: anti_gravitys_rainbow_loop_58
+    21300238: anti_gravitys_rainbow_loop_59
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: anti_gravitys_rainbow_loop_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1186
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1186
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1186
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1186
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_4
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1186
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_5
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1186
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_6
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1186
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1038
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1038
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_9
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1038
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_10
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1038
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_11
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1038
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_12
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1038
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_13
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1038
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 890
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 890
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_16
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 890
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_17
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 890
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_18
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 890
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_19
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 890
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_20
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 890
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 742
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 742
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_23
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 742
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_24
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 742
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_25
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 742
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_26
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 742
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_27
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 742
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 594
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 594
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_30
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 594
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_31
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 594
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_32
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 594
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_33
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 594
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_34
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 594
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_35
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 446
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 446
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_37
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 446
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_38
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 446
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_39
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 446
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_40
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 446
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_41
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 446
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_42
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 298
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_43
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 298
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_44
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 298
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_45
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 298
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_46
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 298
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_47
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 298
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_48
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 298
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_49
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 150
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_50
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 150
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_51
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 150
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_52
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 150
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_53
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 150
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_54
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 150
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_55
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 150
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_56
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_58
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: anti_gravitys_rainbow_loop_59
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

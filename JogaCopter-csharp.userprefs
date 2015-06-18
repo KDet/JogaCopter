@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp-firstpass-vs.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/JogaCopter/Scripts/BackgroundScroll.cs">
+    <Files>
+      <File FileName="Assets/JogaCopter/Scripts/BackgroundScroll.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/dima/Documents/My code samples/JogaCopter/Assets/JogaCopter/Scripts/BackgroundScroll.cs" line="44" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

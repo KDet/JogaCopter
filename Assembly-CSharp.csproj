@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{0EF3246D-8F7B-43E0-3063-EA85874FE889}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_5_1_0;UNITY_5_1;UNITY_5;ENABLE_NEW_BUGREPORTER;ENABLE_2D_PHYSICS;ENABLE_4_6_FEATURES;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PHYSICS_PHYSX3;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_LICENSE;ENABLE_AUDIOMIXER_SUSPEND;ENABLE_EDITOR_METRICS;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_LOCALIZATION;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_SUBSTANCE;ENABLE_TEXTUREID_MAP;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_MONO;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;CROSS_PLATFORM_INPUT;MOBILE_INPUT</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>D:/Unity5/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>D:/Unity5/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\JogaCopter\Scripts\Activator.cs" />
+     <Compile Include="Assets\JogaCopter\Scripts\BackgroundScroll.cs" />
+     <Compile Include="Assets\JogaCopter\Scripts\BombView.cs" />
+     <Compile Include="Assets\JogaCopter\Scripts\BonusItem.cs" />
+     <Compile Include="Assets\JogaCopter\Scripts\CollectableItem.cs" />
+     <Compile Include="Assets\JogaCopter\Scripts\DeadlyItem.cs" />
+     <Compile Include="Assets\JogaCopter\Scripts\Destroyer.cs" />
+     <Compile Include="Assets\JogaCopter\Scripts\GameManager.cs" />
+     <Compile Include="Assets\JogaCopter\Scripts\LevelView.cs" />
+     <Compile Include="Assets\JogaCopter\Scripts\PlayerController.cs" />
+     <Compile Include="Assets\JogaCopter\Scripts\Toutorial.cs" />
+     <Compile Include="Assets\LINQtoGameObject\Examples\SampleSceneScript.cs" />
+     <Compile Include="Assets\LINQtoGameObject\Scripts\GameObjectBuilder.cs" />
+     <Compile Include="Assets\LINQtoGameObject\Scripts\GameObjectExtensions.Enumerable.cs" />
+     <Compile Include="Assets\LINQtoGameObject\Scripts\GameObjectExtensions.Operate.cs" />
+     <Compile Include="Assets\LINQtoGameObject\Scripts\GameObjectExtensions.Traverse.cs" />
+     <Compile Include="Assets\UniRx\Examples\Sample01_ObservableWWW.cs" />
+     <Compile Include="Assets\UniRx\Examples\Sample02_TypedBehaviour.cs" />
+     <Compile Include="Assets\UniRx\Examples\Sample03_ObservableMonoBehaviour.cs" />
+     <Compile Include="Assets\UniRx\Examples\Sample04_ConvertFromUnityCallback.cs" />
+     <Compile Include="Assets\UniRx\Examples\Sample05_ConvertFromCoroutine.cs" />
+     <Compile Include="Assets\UniRx\Examples\Sample06_ConvertToCoroutine.cs" />
+     <Compile Include="Assets\UniRx\Examples\Sample07_OrchestratIEnumerator.cs" />
+     <Compile Include="Assets\UniRx\Examples\Sample08_DetectDoubleClick.cs" />
+     <Compile Include="Assets\UniRx\Examples\Sample09_EventHandling.cs" />
+     <Compile Include="Assets\UniRx\Examples\Sample10_MainThreadDispatcher.cs" />
+     <Compile Include="Assets\UniRx\Examples\Sample11_Logger.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Disposables\BooleanDisposable.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Disposables\CompositeDisposable.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Disposables\Disposable.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Disposables\DisposableExtensions.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Disposables\ICancelable.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Disposables\MultipleAssignmentDisposable.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Disposables\RefCountDisposable.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Disposables\ScheduledDisposable.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Disposables\SerialDisposable.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Disposables\SingleAssignmentDisposable.cs" />
+     <Compile Include="Assets\UniRx\Scripts\EventPattern.cs" />
+     <Compile Include="Assets\UniRx\Scripts\InternalUtil\ImmutableList.cs" />
+     <Compile Include="Assets\UniRx\Scripts\InternalUtil\ListObserver.cs" />
+     <Compile Include="Assets\UniRx\Scripts\InternalUtil\PriorityQueue.cs" />
+     <Compile Include="Assets\UniRx\Scripts\InternalUtil\ReflectionAccessor.cs" />
+     <Compile Include="Assets\UniRx\Scripts\InternalUtil\ScheduledItem.cs" />
+     <Compile Include="Assets\UniRx\Scripts\InternalUtil\ThreadSafeQueueWorker.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Notification.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Notifiers\BooleanNotifier.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Notifiers\CountNotifier.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Notifiers\ScheduledNotifier.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Observable.Aggregate.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Observable.Binding.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Observable.Blocking.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Observable.Concatenate.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Observable.Concurrency.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Observable.Conversions.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Observable.Creation.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Observable.ErrorHandling.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Observable.Events.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Observable.Joins.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Observable.Paging.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Observable.Time.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Observable.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Observer.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Schedulers\CurrentThreadScheduler.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Schedulers\ImmediateScheduler.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Schedulers\Scheduler.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Schedulers\ThreadPoolScheduler.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Subjects\AsyncSubject.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Subjects\BehaviorSubject.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Subjects\ConnectableObservable.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Subjects\ISubject.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Subjects\ReplaySubject.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Subjects\Subject.cs" />
+     <Compile Include="Assets\UniRx\Scripts\System\IObservable.cs" />
+     <Compile Include="Assets\UniRx\Scripts\System\IObserver.cs" />
+     <Compile Include="Assets\UniRx\Scripts\System\IProgress.cs" />
+     <Compile Include="Assets\UniRx\Scripts\System\Tuple.cs" />
+     <Compile Include="Assets\UniRx\Scripts\System\Unit.cs" />
+     <Compile Include="Assets\UniRx\Scripts\TimeInterval.cs" />
+     <Compile Include="Assets\UniRx\Scripts\Timestamped.cs" />
+     <Compile Include="Assets\UniRx\Scripts\UnityEngineBridge\AotSafeExtensions.cs" />
+     <Compile Include="Assets\UniRx\Scripts\UnityEngineBridge\AsyncOperationExtensions.cs" />
+     <Compile Include="Assets\UniRx\Scripts\UnityEngineBridge\CancellationToken.cs" />
+     <Compile Include="Assets\UniRx\Scripts\UnityEngineBridge\Diagnostics\LogEntry.cs" />
+     <Compile Include="Assets\UniRx\Scripts\UnityEngineBridge\Diagnostics\LogEntryExtensions.cs" />
+     <Compile Include="Assets\UniRx\Scripts\UnityEngineBridge\Diagnostics\Logger.cs" />
+     <Compile Include="Assets\UniRx\Scripts\UnityEngineBridge\Diagnostics\ObservableLogger.cs" />
+     <Compile Include="Assets\UniRx\Scripts\UnityEngineBridge\Diagnostics\UnityDebugSink.cs" />
+     <Compile Include="Assets\UniRx\Scripts\UnityEngineBridge\LazyTask.cs" />
+     <Compile Include="Assets\UniRx\Scripts\UnityEngineBridge\MainThreadDispatcher.cs" />
+     <Compile Include="Assets\UniRx\Scripts\UnityEngineBridge\MainThreadScheduler.cs" />
+     <Compile Include="Assets\UniRx\Scripts\UnityEngineBridge\Observable.Unity.cs" />
+     <Compile Include="Assets\UniRx\Scripts\UnityEngineBridge\ObservableMonoBehaviour.cs" />
+     <Compile Include="Assets\UniRx\Scripts\UnityEngineBridge\ObservableWWW.cs" />
+     <Compile Include="Assets\UniRx\Scripts\UnityEngineBridge\ScenePlaybackDetector.cs" />
+     <Compile Include="Assets\UniRx\Scripts\UnityEngineBridge\TypedMonoBehaviour.cs" />
+     <Compile Include="Assets\UniRx\Scripts\UnityEngineBridge\UI\ObserveExtensions.cs" />
+     <Compile Include="Assets\UniRx\Scripts\UnityEngineBridge\UnityEventExtensions.cs" />
+     <Compile Include="Assets\UniRx\Scripts\UnityWinRTBridge\Thread.cs" />
+     <Compile Include="Assets\UniRx\Scripts\UnityWinRTBridge\ThreadPoolScheduler_UnityWinRT.cs" />
+     <None Include="Assets\LINQtoGameObject\README.txt" />
+     <None Include="Assets\UniRx\ReadMe.txt" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>D:/Unity5/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>D:/Unity5/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>D:/Unity5/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+ <HintPath>D:/Unity5/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

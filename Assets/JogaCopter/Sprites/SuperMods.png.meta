@@ -1,0 +1,2167 @@
+fileFormatVersion: 2
+guid: 0f3c942b4402cb84fa053bb3eea15395
+timeCreated: 1426245302
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: quoin_0
+    21300002: quoin_1
+    21300004: quoin_2
+    21300006: quoin_3
+    21300008: quoin_4
+    21300010: quoin_5
+    21300012: quoin_6
+    21300014: quoin_7
+    21300016: quoin_8
+    21300018: quoin_9
+    21300020: quoin_10
+    21300022: quoin_11
+    21300024: quoin_12
+    21300026: quoin_13
+    21300028: quoin_14
+    21300030: quoin_15
+    21300032: quoin_16
+    21300034: quoin_17
+    21300036: quoin_18
+    21300038: quoin_19
+    21300040: quoin_20
+    21300042: quoin_21
+    21300044: quoin_22
+    21300046: quoin_23
+    21300048: quoin_24
+    21300050: quoin_25
+    21300052: quoin_26
+    21300054: quoin_27
+    21300056: quoin_28
+    21300058: quoin_29
+    21300060: quoin_30
+    21300062: quoin_31
+    21300064: quoin_32
+    21300066: quoin_33
+    21300068: quoin_34
+    21300070: quoin_35
+    21300072: quoin_36
+    21300074: quoin_37
+    21300076: quoin_38
+    21300078: quoin_39
+    21300080: quoin_40
+    21300082: quoin_41
+    21300084: quoin_42
+    21300086: quoin_43
+    21300088: quoin_44
+    21300090: quoin_45
+    21300092: quoin_46
+    21300094: quoin_47
+    21300096: quoin_48
+    21300098: quoin_49
+    21300100: quoin_50
+    21300102: quoin_51
+    21300104: quoin_52
+    21300106: quoin_53
+    21300108: quoin_54
+    21300110: quoin_55
+    21300112: quoin_56
+    21300114: quoin_57
+    21300116: quoin_58
+    21300118: quoin_59
+    21300120: quoin_60
+    21300122: quoin_61
+    21300124: quoin_62
+    21300126: quoin_63
+    21300128: quoin_64
+    21300130: quoin_65
+    21300132: quoin_66
+    21300134: quoin_67
+    21300136: quoin_68
+    21300138: quoin_69
+    21300140: quoin_70
+    21300142: quoin_71
+    21300144: quoin_72
+    21300146: quoin_73
+    21300148: quoin_74
+    21300150: quoin_75
+    21300152: quoin_76
+    21300154: quoin_77
+    21300156: quoin_78
+    21300158: quoin_79
+    21300160: quoin_80
+    21300162: quoin_81
+    21300164: quoin_82
+    21300166: quoin_83
+    21300168: quoin_84
+    21300170: quoin_85
+    21300172: quoin_86
+    21300174: quoin_87
+    21300176: quoin_88
+    21300178: quoin_89
+    21300180: quoin_90
+    21300182: quoin_91
+    21300184: quoin_92
+    21300186: quoin_93
+    21300188: quoin_94
+    21300190: quoin_95
+    21300192: quoin_96
+    21300194: quoin_97
+    21300196: quoin_98
+    21300198: quoin_99
+    21300200: quoin_100
+    21300202: quoin_101
+    21300204: quoin_102
+    21300206: quoin_103
+    21300208: quoin_104
+    21300210: quoin_105
+    21300212: quoin_106
+    21300214: quoin_107
+    21300216: quoin_108
+    21300218: quoin_109
+    21300220: quoin_110
+    21300222: quoin_111
+    21300224: quoin_112
+    21300226: quoin_113
+    21300228: quoin_114
+    21300230: quoin_115
+    21300232: quoin_116
+    21300234: quoin_117
+    21300236: quoin_118
+    21300238: quoin_119
+    21300240: quoin_120
+    21300242: quoin_121
+    21300244: quoin_122
+    21300246: quoin_123
+    21300248: quoin_124
+    21300250: quoin_125
+    21300252: quoin_126
+    21300254: quoin_127
+    21300256: quoin_128
+    21300258: quoin_129
+    21300260: quoin_130
+    21300262: quoin_131
+    21300264: quoin_132
+    21300266: quoin_133
+    21300268: quoin_134
+    21300270: quoin_135
+    21300272: quoin_136
+    21300274: quoin_137
+    21300276: quoin_138
+    21300278: quoin_139
+    21300280: quoin_140
+    21300282: quoin_141
+    21300284: quoin_142
+    21300286: quoin_143
+    21300288: quoin_144
+    21300290: quoin_145
+    21300292: quoin_146
+    21300294: quoin_147
+    21300296: quoin_148
+    21300298: quoin_149
+    21300300: quoin_150
+    21300302: quoin_151
+    21300304: quoin_152
+    21300306: quoin_153
+    21300308: quoin_154
+    21300310: quoin_155
+    21300312: quoin_156
+    21300314: quoin_157
+    21300316: quoin_158
+    21300318: quoin_159
+    21300320: quoin_160
+    21300322: quoin_161
+    21300324: quoin_162
+    21300326: quoin_163
+    21300328: quoin_164
+    21300330: quoin_165
+    21300332: quoin_166
+    21300334: quoin_167
+    21300336: quoin_168
+    21300338: quoin_169
+    21300340: quoin_170
+    21300342: quoin_171
+    21300344: quoin_172
+    21300346: quoin_173
+    21300348: quoin_174
+    21300350: quoin_175
+    21300352: quoin_176
+    21300354: quoin_177
+    21300356: quoin_178
+    21300358: quoin_179
+    21300360: quoin_180
+    21300362: quoin_181
+    21300364: quoin_182
+    21300366: quoin_183
+    21300368: quoin_184
+    21300370: quoin_185
+    21300372: quoin_186
+    21300374: quoin_187
+    21300376: quoin_188
+    21300378: quoin_189
+    21300380: quoin_190
+    21300382: quoin_191
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: quoin_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 315
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 315
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 315
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 315
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 315
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 315
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 315
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 315
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 315
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 315
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_11
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 315
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 315
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_13
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 315
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_14
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 315
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 315
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_16
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 315
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_17
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 315
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_18
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 315
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_19
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 315
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_20
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 315
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_21
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 315
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_22
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 315
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_23
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 315
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 270
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 270
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_27
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 270
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 270
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_29
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 270
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 270
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_31
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 270
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 270
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_33
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 270
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 270
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_35
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 270
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 270
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_37
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 270
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_38
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 270
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_39
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 270
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_40
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 270
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_41
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 270
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_42
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 270
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_43
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 270
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_44
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 270
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_45
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 270
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_46
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 270
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_47
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 270
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_49
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 225
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_50
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 225
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_51
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 225
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 225
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_53
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 225
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_54
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 225
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_55
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 225
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_56
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 225
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_57
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 225
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_58
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 225
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_59
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 225
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_60
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 225
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_61
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 225
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_62
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 225
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_63
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 225
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_64
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 225
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_65
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 225
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_66
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 225
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_67
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 225
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_68
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 225
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_69
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 225
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_70
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 225
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_71
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 225
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_73
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 180
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_74
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 180
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_75
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_76
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 180
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_77
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 180
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_78
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 180
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_79
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 180
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_80
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 180
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_81
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 180
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_82
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 180
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_83
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 180
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_84
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 180
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_85
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 180
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_86
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 180
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_87
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 180
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_88
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 180
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_89
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 180
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_90
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 180
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_91
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 180
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_92
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 180
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_93
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 180
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_94
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 180
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_95
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 180
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_97
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 135
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_98
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 135
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_99
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 135
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_100
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 135
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_101
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 135
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_102
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 135
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_103
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 135
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_104
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 135
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_105
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 135
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_106
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 135
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_107
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 135
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_108
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 135
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_109
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 135
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_110
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 135
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_111
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 135
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_112
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 135
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_113
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 135
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_114
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 135
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_115
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 135
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_116
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 135
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_117
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 135
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_118
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 135
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_119
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 135
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_121
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 90
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_122
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 90
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_123
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 90
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_124
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 90
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_125
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 90
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_126
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 90
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_127
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 90
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_128
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 90
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_129
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 90
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_130
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 90
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_131
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 90
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_132
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 90
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_133
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 90
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_134
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 90
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_135
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 90
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_136
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 90
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_137
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 90
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_138
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 90
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_139
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 90
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_140
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 90
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_141
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 90
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_142
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 90
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_143
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 90
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_145
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 45
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_146
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 45
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_147
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 45
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_148
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 45
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_149
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 45
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_150
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 45
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_151
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 45
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_152
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 45
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_153
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 45
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_154
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 45
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_155
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 45
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_156
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 45
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_157
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 45
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_158
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 45
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_159
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 45
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_160
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 45
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_161
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 45
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_162
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 45
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_163
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 45
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_164
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 45
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_165
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 45
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_166
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 45
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_167
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 45
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_169
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_170
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_171
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_172
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_173
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_174
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_175
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_176
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_177
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_178
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_179
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_180
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_181
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_182
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_183
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_184
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_185
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_186
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_187
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 0
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_188
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_189
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_190
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 0
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: quoin_191
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 0
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

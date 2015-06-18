@@ -1,0 +1,473 @@
+fileFormatVersion: 2
+guid: bf39a85ed4398cd4394ad6dbb8a3f4eb
+timeCreated: 1426672437
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: purple_apparition_idle2_0
+    21300002: purple_apparition_idle2_1
+    21300004: purple_apparition_idle2_2
+    21300006: purple_apparition_idle2_3
+    21300008: purple_apparition_idle2_4
+    21300010: purple_apparition_idle2_5
+    21300012: purple_apparition_idle2_6
+    21300014: purple_apparition_idle2_7
+    21300016: purple_apparition_idle2_8
+    21300018: purple_apparition_idle2_9
+    21300020: purple_apparition_idle2_10
+    21300022: purple_apparition_idle2_11
+    21300024: purple_apparition_idle2_12
+    21300026: purple_apparition_idle2_13
+    21300028: purple_apparition_idle2_14
+    21300030: purple_apparition_idle2_15
+    21300032: purple_apparition_idle2_16
+    21300034: purple_apparition_idle2_17
+    21300036: purple_apparition_idle2_18
+    21300038: purple_apparition_idle2_19
+    21300040: purple_apparition_idle2_20
+    21300042: purple_apparition_idle2_21
+    21300044: purple_apparition_idle2_22
+    21300046: purple_apparition_idle2_23
+    21300048: purple_apparition_idle2_24
+    21300050: purple_apparition_idle2_25
+    21300052: purple_apparition_idle2_26
+    21300054: purple_apparition_idle2_27
+    21300056: purple_apparition_idle2_28
+    21300058: purple_apparition_idle2_29
+    21300060: purple_apparition_idle2_30
+    21300062: purple_apparition_idle2_31
+    21300064: purple_apparition_idle2_32
+    21300066: purple_apparition_idle2_33
+    21300068: purple_apparition_idle2_34
+    21300070: purple_apparition_idle2_35
+    21300072: purple_apparition_idle2_36
+    21300074: purple_apparition_idle2_37
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: purple_apparition_idle2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3286
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_1
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 3286
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_2
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 3286
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_3
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 3286
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_4
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 3286
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2817
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_6
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 2817
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_7
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 2817
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_8
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 2817
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_9
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 2817
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2348
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_11
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 2348
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_12
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 2348
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_13
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 2348
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_14
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 2348
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1879
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_16
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1879
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_17
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1879
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_18
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 1879
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_19
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 1879
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1410
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_21
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1410
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_22
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1410
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_23
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 1410
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_24
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 1410
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 941
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_26
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 941
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_27
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 941
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_28
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 941
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_29
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 941
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_31
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 472
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_32
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 472
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_33
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 472
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_34
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 472
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_36
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 3
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_idle2_37
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 3
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

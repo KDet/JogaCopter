@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: 01c04c34da1c44346901765f79e15837
+timeCreated: 1426854767
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hi_overlay_variant_stars2x_x1_hi_png_1354840473_0
+    21300002: hi_overlay_variant_stars2x_x1_hi_png_1354840473_1
+    21300004: hi_overlay_variant_stars2x_x1_hi_png_1354840473_2
+    21300006: hi_overlay_variant_stars2x_x1_hi_png_1354840473_3
+    21300008: hi_overlay_variant_stars2x_x1_hi_png_1354840473_4
+    21300010: hi_overlay_variant_stars2x_x1_hi_png_1354840473_5
+    21300012: hi_overlay_variant_stars2x_x1_hi_png_1354840473_6
+    21300014: hi_overlay_variant_stars2x_x1_hi_png_1354840473_7
+    21300016: hi_overlay_variant_stars2x_x1_hi_png_1354840473_8
+    21300018: hi_overlay_variant_stars2x_x1_hi_png_1354840473_9
+    21300020: hi_overlay_variant_stars2x_x1_hi_png_1354840473_10
+    21300022: hi_overlay_variant_stars2x_x1_hi_png_1354840473_11
+    21300024: hi_overlay_variant_stars2x_x1_hi_png_1354840473_12
+    21300026: hi_overlay_variant_stars2x_x1_hi_png_1354840473_13
+    21300028: hi_overlay_variant_stars2x_x1_hi_png_1354840473_14
+    21300030: hi_overlay_variant_stars2x_x1_hi_png_1354840473_15
+    21300032: hi_overlay_variant_stars2x_x1_hi_png_1354840473_16
+    21300034: hi_overlay_variant_stars2x_x1_hi_png_1354840473_17
+    21300036: hi_overlay_variant_stars2x_x1_hi_png_1354840473_18
+    21300038: hi_overlay_variant_stars2x_x1_hi_png_1354840473_19
+    21300040: hi_overlay_variant_stars2x_x1_hi_png_1354840473_20
+    21300042: hi_overlay_variant_stars2x_x1_hi_png_1354840473_21
+    21300044: hi_overlay_variant_stars2x_x1_hi_png_1354840473_22
+    21300046: hi_overlay_variant_stars2x_x1_hi_png_1354840473_23
+    21300048: hi_overlay_variant_stars2x_x1_hi_png_1354840473_24
+    21300050: hi_overlay_variant_stars2x_x1_hi_png_1354840473_25
+    21300052: hi_overlay_variant_stars2x_x1_hi_png_1354840473_26
+    21300054: hi_overlay_variant_stars2x_x1_hi_png_1354840473_27
+    21300056: hi_overlay_variant_stars2x_x1_hi_png_1354840473_28
+    21300058: hi_overlay_variant_stars2x_x1_hi_png_1354840473_29
+    21300060: hi_overlay_variant_stars2x_x1_hi_png_1354840473_30
+    21300062: hi_overlay_variant_stars2x_x1_hi_png_1354840473_31
+    21300064: hi_overlay_variant_stars2x_x1_hi_png_1354840473_32
+    21300066: hi_points2x_0
+    21300068: hi_points2x_1
+    21300070: hi_points2x_2
+    21300072: hi_points2x_3
+    21300074: hi_points2x_4
+    21300076: hi_points2x_5
+    21300078: hi_points2x_6
+    21300080: hi_points2x_7
+    21300082: hi_points2x_8
+    21300084: hi_points2x_9
+    21300086: hi_points2x_10
+    21300088: hi_points2x_11
+    21300090: hi_points2x_12
+    21300092: hi_points2x_13
+    21300094: hi_points2x_14
+    21300096: hi_points2x_15
+    21300098: hi_points2x_16
+    21300100: hi_points2x_17
+    21300102: hi_points2x_18
+    21300104: hi_points2x_19
+    21300106: hi_points2x_20
+    21300108: hi_points2x_21
+    21300110: hi_points2x_22
+    21300112: hi_points2x_23
+    21300114: hi_points2x_24
+    21300116: hi_points2x_25
+    21300118: hi_points2x_26
+    21300120: hi_points2x_27
+    21300122: hi_points2x_28
+    21300124: hi_points2x_29
+    21300126: hi_points2x_30
+    21300128: hi_points2x_31
+    21300130: hi_points2x_32
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hi_points2x_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 679
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_points2x_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 679
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_points2x_2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 679
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_points2x_3
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 679
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_points2x_4
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 679
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_points2x_5
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 679
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_points2x_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_points2x_7
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 560
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_points2x_8
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 560
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_points2x_9
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 560
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_points2x_10
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 560
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_points2x_11
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 560
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_points2x_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_points2x_13
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 441
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_points2x_14
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 441
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_points2x_15
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 441
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_points2x_16
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 441
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_points2x_17
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 441
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_points2x_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_points2x_19
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 322
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_points2x_20
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 322
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_points2x_21
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 322
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_points2x_22
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 322
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_points2x_23
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 322
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_points2x_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_points2x_25
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 203
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_points2x_26
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 203
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_points2x_27
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 203
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_points2x_28
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 203
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_points2x_29
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 203
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_points2x_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_points2x_31
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 84
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_points2x_32
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 84
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

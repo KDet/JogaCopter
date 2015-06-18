@@ -1,0 +1,691 @@
+fileFormatVersion: 2
+guid: 7bc90fa60adc10d4bb0c0cff13bad2ea
+timeCreated: 1426855077
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hi_overlay_variant_stars_x1_hi_png_1354840469_0
+    21300002: hi_overlay_variant_stars_x1_hi_png_1354840469_1
+    21300004: hi_overlay_variant_stars_x1_hi_png_1354840469_2
+    21300006: hi_overlay_variant_stars_x1_hi_png_1354840469_3
+    21300008: hi_overlay_variant_stars_x1_hi_png_1354840469_4
+    21300010: hi_overlay_variant_stars_x1_hi_png_1354840469_5
+    21300012: hi_overlay_variant_stars_x1_hi_png_1354840469_6
+    21300014: hi_overlay_variant_stars_x1_hi_png_1354840469_7
+    21300016: hi_overlay_variant_stars_x1_hi_png_1354840469_8
+    21300018: hi_overlay_variant_stars_x1_hi_png_1354840469_9
+    21300020: hi_overlay_variant_stars_x1_hi_png_1354840469_10
+    21300022: hi_overlay_variant_stars_x1_hi_png_1354840469_11
+    21300024: hi_overlay_variant_stars_x1_hi_png_1354840469_12
+    21300026: hi_overlay_variant_stars_x1_hi_png_1354840469_13
+    21300028: hi_overlay_variant_stars_x1_hi_png_1354840469_14
+    21300030: hi_overlay_variant_stars_x1_hi_png_1354840469_15
+    21300032: hi_overlay_variant_stars_x1_hi_png_1354840469_16
+    21300034: hi_overlay_variant_stars_x1_hi_png_1354840469_17
+    21300036: hi_overlay_variant_stars_x1_hi_png_1354840469_18
+    21300038: hi_overlay_variant_stars_x1_hi_png_1354840469_19
+    21300040: hi_overlay_variant_stars_x1_hi_png_1354840469_20
+    21300042: hi_overlay_variant_stars_x1_hi_png_1354840469_21
+    21300044: hi_overlay_variant_stars_x1_hi_png_1354840469_22
+    21300046: hi_overlay_variant_stars_x1_hi_png_1354840469_23
+    21300048: hi_overlay_variant_stars_x1_hi_png_1354840469_24
+    21300050: hi_overlay_variant_stars_x1_hi_png_1354840469_25
+    21300052: hi_overlay_variant_stars_x1_hi_png_1354840469_26
+    21300054: hi_overlay_variant_stars_x1_hi_png_1354840469_27
+    21300056: hi_overlay_variant_stars_x1_hi_png_1354840469_28
+    21300058: hi_overlay_variant_stars_x1_hi_png_1354840469_29
+    21300060: hi_overlay_variant_stars_x1_hi_png_1354840469_30
+    21300062: hi_overlay_variant_stars_x1_hi_png_1354840469_31
+    21300064: hi_overlay_variant_stars_x1_hi_png_1354840469_32
+    21300066: hi_overlay_variant_stars_x1_hi_png_1354840469_33
+    21300068: hi_overlay_variant_stars_x1_hi_png_1354840469_34
+    21300070: hi_overlay_variant_stars_x1_hi_png_1354840469_35
+    21300072: hi_overlay_variant_stars_x1_hi_png_1354840469_36
+    21300074: hi_overlay_variant_stars_x1_hi_png_1354840469_37
+    21300076: hi_overlay_variant_stars_x1_hi_png_1354840469_38
+    21300078: hi_overlay_variant_stars_x1_hi_png_1354840469_39
+    21300080: hi_overlay_variant_stars_x1_hi_png_1354840469_40
+    21300082: hi_overlay_variant_stars_x1_hi_png_1354840469_41
+    21300084: hi_overlay_variant_stars_x1_hi_png_1354840469_42
+    21300086: hi_overlay_variant_stars_x1_hi_png_1354840469_43
+    21300088: hi_overlay_variant_stars_x1_hi_png_1354840469_44
+    21300090: hi_overlay_variant_stars_x1_hi_png_1354840469_45
+    21300092: hi_overlay_variant_stars_x1_hi_png_1354840469_46
+    21300094: hi_overlay_variant_stars_x1_hi_png_1354840469_47
+    21300096: hi_overlay_variant_stars_x1_hi_png_1354840469_48
+    21300098: hi_overlay_variant_stars_x1_hi_png_1354840469_49
+    21300100: hi_overlay_variant_stars_x1_hi_png_1354840469_50
+    21300102: hi_overlay_variant_stars_x1_hi_png_1354840469_51
+    21300104: hi_overlay_variant_stars_x1_hi_png_1354840469_52
+    21300106: hiPoints_0
+    21300108: hiPoints_1
+    21300110: hiPoints_2
+    21300112: hiPoints_3
+    21300114: hiPoints_4
+    21300116: hiPoints_5
+    21300118: hiPoints_6
+    21300120: hiPoints_7
+    21300122: hiPoints_8
+    21300124: hiPoints_9
+    21300126: hiPoints_10
+    21300128: hiPoints_11
+    21300130: hiPoints_12
+    21300132: hiPoints_13
+    21300134: hiPoints_14
+    21300136: hiPoints_15
+    21300138: hiPoints_16
+    21300140: hiPoints_17
+    21300142: hiPoints_18
+    21300144: hiPoints_19
+    21300146: hiPoints_20
+    21300148: hiPoints_21
+    21300150: hiPoints_22
+    21300152: hiPoints_23
+    21300154: hiPoints_24
+    21300156: hiPoints_25
+    21300158: hiPoints_26
+    21300160: hiPoints_27
+    21300162: hiPoints_28
+    21300164: hiPoints_29
+    21300166: hiPoints_30
+    21300168: hiPoints_31
+    21300170: hiPoints_32
+    21300172: hiPoints_33
+    21300174: hiPoints_34
+    21300176: hiPoints_35
+    21300178: hiPoints_36
+    21300180: hiPoints_37
+    21300182: hiPoints_38
+    21300184: hiPoints_39
+    21300186: hiPoints_40
+    21300188: hiPoints_41
+    21300190: hiPoints_42
+    21300192: hiPoints_43
+    21300194: hiPoints_44
+    21300196: hiPoints_45
+    21300198: hiPoints_46
+    21300200: hiPoints_47
+    21300202: hiPoints_48
+    21300204: hiPoints_49
+    21300206: hiPoints_50
+    21300208: hiPoints_51
+    21300210: hiPoints_52
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hiPoints_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1207
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1207
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1207
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_3
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1207
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_4
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1207
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_5
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1207
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1083
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_7
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1083
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_8
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1083
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_9
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1083
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_10
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1083
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_11
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1083
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 959
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_13
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 959
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_14
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 959
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_15
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 959
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_16
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 959
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_17
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 959
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 835
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 835
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_20
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 835
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_21
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 835
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_22
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 835
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_23
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 835
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 711
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_25
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 711
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_26
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 711
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_27
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 711
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_28
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 711
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_29
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 711
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 587
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_31
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 587
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_32
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 587
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_33
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 587
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_34
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 587
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_35
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 587
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 463
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_37
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 463
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_38
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 463
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_39
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 463
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_40
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 463
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_41
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 463
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_43
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 339
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_44
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 339
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_45
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 339
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_46
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 339
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_47
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 339
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_49
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 215
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_50
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 215
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_51
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 215
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hiPoints_52
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 215
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

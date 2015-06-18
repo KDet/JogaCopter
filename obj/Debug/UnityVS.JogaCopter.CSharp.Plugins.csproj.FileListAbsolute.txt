@@ -1,0 +1,33 @@
+E:\Copy - Copy\JogaCopter\JogaCopter\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+E:\Copy - Copy\JogaCopter\JogaCopter\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\Copy - Copy\JogaCopter\JogaCopter\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\Copy - Copy\JogaCopter\JogaCopter\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\Copy - Copy\JogaCopter\JogaCopter\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+E:\Copy - Copy\JogaCopter\JogaCopter\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\Copy - Copy\JogaCopter\JogaCopter\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\Copy - Copy\JogaCopter\JogaCopter\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+E:\Copy - Copy\JogaCopter\JogaCopter\obj\Debug\UnityVS.JogaCopter.CSharp.Plugins.csprojResolveAssemblyReference.cache
+E:\Copy - Copy\JogaCopter\JogaCopter\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\Copy - Copy\JogaCopter\JogaCopter\obj\Debug\Assembly-CSharp-firstpass.pdb
+R:\Unity\Projects\JogaCopter\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+R:\Unity\Projects\JogaCopter\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+R:\Unity\Projects\JogaCopter\Temp\UnityVS_bin\Debug\UnityEditor.dll
+R:\Unity\Projects\JogaCopter\Temp\UnityVS_bin\Debug\UnityEngine.dll
+R:\Unity\Projects\JogaCopter\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+R:\Unity\Projects\JogaCopter\Temp\UnityVS_bin\Debug\UnityEngine.xml
+R:\Unity\Projects\JogaCopter\Temp\UnityVS_bin\Debug\UnityEditor.xml
+R:\Unity\Projects\JogaCopter\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+R:\Unity\Projects\JogaCopter\obj\Debug\UnityVS.JogaCopter.CSharp.Plugins.csprojResolveAssemblyReference.cache
+R:\Unity\Projects\JogaCopter\obj\Debug\Assembly-CSharp-firstpass.dll
+R:\Unity\Projects\JogaCopter\obj\Debug\Assembly-CSharp-firstpass.pdb
+R:\Unity\Projects\JogaCopter\JogaCopter\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+R:\Unity\Projects\JogaCopter\JogaCopter\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+R:\Unity\Projects\JogaCopter\JogaCopter\Temp\UnityVS_bin\Debug\UnityEditor.dll
+R:\Unity\Projects\JogaCopter\JogaCopter\Temp\UnityVS_bin\Debug\UnityEngine.dll
+R:\Unity\Projects\JogaCopter\JogaCopter\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+R:\Unity\Projects\JogaCopter\JogaCopter\Temp\UnityVS_bin\Debug\UnityEngine.xml
+R:\Unity\Projects\JogaCopter\JogaCopter\Temp\UnityVS_bin\Debug\UnityEditor.xml
+R:\Unity\Projects\JogaCopter\JogaCopter\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+R:\Unity\Projects\JogaCopter\JogaCopter\obj\Debug\UnityVS.JogaCopter.CSharp.Plugins.csprojResolveAssemblyReference.cache
+R:\Unity\Projects\JogaCopter\JogaCopter\obj\Debug\Assembly-CSharp-firstpass.dll
+R:\Unity\Projects\JogaCopter\JogaCopter\obj\Debug\Assembly-CSharp-firstpass.pdb

@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: 57312794a63d75f47aa53dd2e7cbac02
+timeCreated: 1425638781
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_0
+    21300002: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_1
+    21300004: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_2
+    21300006: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_3
+    21300008: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_4
+    21300010: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_5
+    21300012: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_6
+    21300014: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_7
+    21300016: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_8
+    21300018: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_9
+    21300020: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_10
+    21300022: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_11
+    21300024: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_12
+    21300026: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_13
+    21300028: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_14
+    21300030: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_15
+    21300032: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_16
+    21300034: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_17
+    21300036: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_18
+    21300038: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_19
+    21300040: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_20
+    21300042: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_21
+    21300044: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 225
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 224
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 220
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_3
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 215
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_4
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 207
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_5
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 198
+        width: 73
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_6
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 188
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 189
+        width: 88
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 98
+        width: 85
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_9
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 100
+        width: 83
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_10
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 101
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 102
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_12
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 103
+        width: 88
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_13
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 103
+        width: 88
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_14
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 103
+        width: 89
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_15
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 103
+        width: 90
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 10
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_17
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 10
+        width: 94
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_18
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 10
+        width: 96
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_19
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 11
+        width: 97
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_20
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 11
+        width: 99
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_21
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 11
+        width: 99
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_yoga_frog_box_box_variant_frogBlue_x1_warriorPoseIn_png_1354833587_22
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 12
+        width: 99
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

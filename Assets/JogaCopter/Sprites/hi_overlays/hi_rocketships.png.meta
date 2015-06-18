@@ -1,0 +1,638 @@
+fileFormatVersion: 2
+guid: 182db3ab22929ad4b8d21d6bb70faa58
+timeCreated: 1426855939
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hi_rocketships_0
+    21300002: hi_rocketships_1
+    21300004: hi_rocketships_2
+    21300006: hi_rocketships_3
+    21300008: hi_rocketships_4
+    21300010: hi_rocketships_5
+    21300012: hi_rocketships_6
+    21300014: hi_rocketships_7
+    21300016: hi_rocketships_8
+    21300018: hi_rocketships_9
+    21300020: hi_rocketships_10
+    21300022: hi_rocketships_11
+    21300024: hi_rocketships_12
+    21300026: hi_rocketships_13
+    21300028: hi_rocketships_14
+    21300030: hi_rocketships_15
+    21300032: hi_rocketships_16
+    21300034: hi_rocketships_17
+    21300036: hi_rocketships_18
+    21300038: hi_rocketships_19
+    21300040: hi_rocketships_20
+    21300042: hi_rocketships_21
+    21300044: hi_rocketships_22
+    21300046: hi_rocketships_23
+    21300048: hi_rocketships_24
+    21300050: hi_rocketships_25
+    21300052: hi_rocketships_26
+    21300054: hi_rocketships_27
+    21300056: hi_rocketships_28
+    21300058: hi_rocketships_29
+    21300060: hi_rocketships_30
+    21300062: hi_rocketships_31
+    21300064: hi_rocketships_32
+    21300066: hi_rocketships_33
+    21300068: hi_rocketships_34
+    21300070: hi_rocketships_35
+    21300072: hi_rocketships_36
+    21300074: hi_rocketships_37
+    21300076: hi_rocketships_38
+    21300078: hi_rocketships_39
+    21300080: hi_rocketships_40
+    21300082: hi_rocketships_41
+    21300084: hi_rocketships_42
+    21300086: hi_rocketships_43
+    21300088: hi_rocketships_44
+    21300090: hi_rocketships_45
+    21300092: hi_rocketships_46
+    21300094: hi_rocketships_47
+    21300096: hi_rocketships_48
+    21300098: hi_rocketships_49
+    21300100: hi_rocketships_50
+    21300102: hi_rocketships_51
+    21300104: hi_rocketships_52
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hi_rocketships_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1227
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1227
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1227
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_3
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1227
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_4
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1227
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_5
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1227
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1101
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1101
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1101
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_9
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1101
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_10
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1101
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_11
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1101
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 975
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 975
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_14
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 975
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_15
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 975
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_16
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 975
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_17
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 975
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 849
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 849
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_20
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 849
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_21
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 849
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_22
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 849
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_23
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 849
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 723
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_25
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 723
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_26
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 723
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_27
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 723
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_28
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 723
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_29
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 723
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 597
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_31
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 597
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_32
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 597
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_33
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 597
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_34
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 597
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_35
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 597
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 471
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_37
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 471
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_38
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 471
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_39
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 471
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_40
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 471
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_41
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 471
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 345
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_43
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 345
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_44
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 345
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_45
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 345
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_46
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 345
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_47
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 345
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_49
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 219
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_50
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 219
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_51
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 219
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hi_rocketships_52
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 219
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

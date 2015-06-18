@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 54662a4ac94c6fe49a40d691f99d9d8a
+timeCreated: 1426672996
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: purple_apparition_fadeIn_part2_0
+    21300002: purple_apparition_fadeIn_part2_1
+    21300004: purple_apparition_fadeIn_part2_2
+    21300006: purple_apparition_fadeIn_part2_3
+    21300008: purple_apparition_fadeIn_part2_4
+    21300010: purple_apparition_fadeIn_part2_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: purple_apparition_fadeIn_part2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2352
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_fadeIn_part2_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1883
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_fadeIn_part2_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1414
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_fadeIn_part2_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 945
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_fadeIn_part2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 476
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: purple_apparition_fadeIn_part2_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 775
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

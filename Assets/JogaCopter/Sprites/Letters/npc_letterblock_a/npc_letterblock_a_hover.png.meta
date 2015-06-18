@@ -1,0 +1,1795 @@
+fileFormatVersion: 2
+guid: cf9391e7aaab5d14c94dcbde9cd5d79a
+timeCreated: 1426249609
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_letterblock_a__x1_hover_0
+    21300002: npc_letterblock_a__x1_hover_1
+    21300004: npc_letterblock_a__x1_hover_2
+    21300006: npc_letterblock_a__x1_hover_3
+    21300008: npc_letterblock_a__x1_hover_4
+    21300010: npc_letterblock_a__x1_hover_5
+    21300012: npc_letterblock_a__x1_hover_6
+    21300014: npc_letterblock_a__x1_hover_7
+    21300016: npc_letterblock_a__x1_hover_8
+    21300018: npc_letterblock_a__x1_hover_9
+    21300020: npc_letterblock_a__x1_hover_10
+    21300022: npc_letterblock_a__x1_hover_11
+    21300024: npc_letterblock_a__x1_hover_12
+    21300026: npc_letterblock_a__x1_hover_13
+    21300028: npc_letterblock_a__x1_hover_14
+    21300030: npc_letterblock_a__x1_hover_15
+    21300032: npc_letterblock_a__x1_hover_16
+    21300034: npc_letterblock_a__x1_hover_17
+    21300036: npc_letterblock_a__x1_hover_18
+    21300038: npc_letterblock_a__x1_hover_19
+    21300040: npc_letterblock_a__x1_hover_20
+    21300042: npc_letterblock_a__x1_hover_21
+    21300044: npc_letterblock_a__x1_hover_22
+    21300046: npc_letterblock_a__x1_hover_23
+    21300048: npc_letterblock_a__x1_hover_24
+    21300050: npc_letterblock_a__x1_hover_25
+    21300052: npc_letterblock_a__x1_hover_26
+    21300054: npc_letterblock_a__x1_hover_27
+    21300056: npc_letterblock_a__x1_hover_28
+    21300058: npc_letterblock_a__x1_hover_29
+    21300060: npc_letterblock_a__x1_hover_30
+    21300062: npc_letterblock_a__x1_hover_31
+    21300064: npc_letterblock_a__x1_hover_32
+    21300066: npc_letterblock_a__x1_hover_33
+    21300068: npc_letterblock_a__x1_hover_34
+    21300070: npc_letterblock_a__x1_hover_35
+    21300072: npc_letterblock_a__x1_hover_36
+    21300074: npc_letterblock_a__x1_hover_37
+    21300076: npc_letterblock_a__x1_hover_38
+    21300078: npc_letterblock_a__x1_hover_39
+    21300080: npc_letterblock_a__x1_hover_40
+    21300082: npc_letterblock_a__x1_hover_41
+    21300084: npc_letterblock_a__x1_hover_42
+    21300086: npc_letterblock_a__x1_hover_43
+    21300088: npc_letterblock_a__x1_hover_44
+    21300090: npc_letterblock_a__x1_hover_45
+    21300092: npc_letterblock_a__x1_hover_46
+    21300094: npc_letterblock_a__x1_hover_47
+    21300096: npc_letterblock_a__x1_hover_48
+    21300098: npc_letterblock_a__x1_hover_49
+    21300100: npc_letterblock_a__x1_hover_50
+    21300102: npc_letterblock_a__x1_hover_51
+    21300104: npc_letterblock_a__x1_hover_52
+    21300106: npc_letterblock_a__x1_hover_53
+    21300108: npc_letterblock_a__x1_hover_54
+    21300110: npc_letterblock_a__x1_hover_55
+    21300112: npc_letterblock_a__x1_hover_56
+    21300114: npc_letterblock_a__x1_hover_57
+    21300116: npc_letterblock_a__x1_hover_58
+    21300118: npc_letterblock_a__x1_hover_59
+    21300120: npc_letterblock_a__x1_hover_60
+    21300122: npc_letterblock_a__x1_hover_61
+    21300124: npc_letterblock_a__x1_hover_62
+    21300126: npc_letterblock_a__x1_hover_63
+    21300128: npc_letterblock_a__x1_hover_64
+    21300130: npc_letterblock_a__x1_hover_65
+    21300132: npc_letterblock_a__x1_hover_66
+    21300134: npc_letterblock_a__x1_hover_67
+    21300136: npc_letterblock_a__x1_hover_68
+    21300138: npc_letterblock_a__x1_hover_69
+    21300140: npc_letterblock_a__x1_hover_70
+    21300142: npc_letterblock_a__x1_hover_71
+    21300144: npc_letterblock_a__x1_hover_72
+    21300146: npc_letterblock_a__x1_hover_73
+    21300148: npc_letterblock_a__x1_hover_74
+    21300150: npc_letterblock_a__x1_hover_75
+    21300152: npc_letterblock_a__x1_hover_76
+    21300154: npc_letterblock_a__x1_hover_77
+    21300156: npc_letterblock_a__x1_hover_78
+    21300158: npc_letterblock_a__x1_hover_79
+    21300160: npc_letterblock_a__x1_hover_80
+    21300162: npc_letterblock_a__x1_hover_81
+    21300164: npc_letterblock_a__x1_hover_82
+    21300166: npc_letterblock_a__x1_hover_83
+    21300168: npc_letterblock_a__x1_hover_84
+    21300170: npc_letterblock_a__x1_hover_85
+    21300172: npc_letterblock_a__x1_hover_86
+    21300174: npc_letterblock_a__x1_hover_87
+    21300176: npc_letterblock_a__x1_hover_88
+    21300178: npc_letterblock_a__x1_hover_89
+    21300180: npc_letterblock_a__x1_hover_90
+    21300182: npc_letterblock_a__x1_hover_91
+    21300184: npc_letterblock_a__x1_hover_92
+    21300186: npc_letterblock_a__x1_hover_93
+    21300188: npc_letterblock_a__x1_hover_94
+    21300190: npc_letterblock_a__x1_hover_95
+    21300192: npc_letterblock_a__x1_hover_96
+    21300194: npc_letterblock_a__x1_hover_97
+    21300196: npc_letterblock_a__x1_hover_98
+    21300198: npc_letterblock_a__x1_hover_99
+    21300200: npc_letterblock_a__x1_hover_100
+    21300202: npc_letterblock_a__x1_hover_101
+    21300204: npc_letterblock_a__x1_hover_102
+    21300206: npc_letterblock_a__x1_hover_103
+    21300208: npc_letterblock_a__x1_hover_104
+    21300210: npc_letterblock_a__x1_hover_105
+    21300212: npc_letterblock_a__x1_hover_106
+    21300214: npc_letterblock_a__x1_hover_107
+    21300216: npc_letterblock_a__x1_hover_108
+    21300218: npc_letterblock_a__x1_hover_109
+    21300220: npc_letterblock_a__x1_hover_110
+    21300222: npc_letterblock_a__x1_hover_111
+    21300224: npc_letterblock_a__x1_hover_112
+    21300226: npc_letterblock_a__x1_hover_113
+    21300228: npc_letterblock_a__x1_hover_114
+    21300230: npc_letterblock_a__x1_hover_115
+    21300232: npc_letterblock_a__x1_hover_116
+    21300234: npc_letterblock_a__x1_hover_117
+    21300236: npc_letterblock_a__x1_hover_118
+    21300238: npc_letterblock_a__x1_hover_119
+    21300240: npc_letterblock_a__x1_hover_120
+    21300242: npc_letterblock_a__x1_hover_121
+    21300244: npc_letterblock_a__x1_hover_122
+    21300246: npc_letterblock_a__x1_hover_123
+    21300248: npc_letterblock_a__x1_hover_124
+    21300250: npc_letterblock_a__x1_hover_125
+    21300252: npc_letterblock_a__x1_hover_126
+    21300254: npc_letterblock_a__x1_hover_127
+    21300256: npc_letterblock_a__x1_hover_128
+    21300258: npc_letterblock_a__x1_hover_129
+    21300260: npc_letterblock_a__x1_hover_130
+    21300262: npc_letterblock_a__x1_hover_131
+    21300264: npc_letterblock_a__x1_hover_132
+    21300266: npc_letterblock_a__x1_hover_133
+    21300268: npc_letterblock_a__x1_hover_134
+    21300270: npc_letterblock_a__x1_hover_135
+    21300272: npc_letterblock_a__x1_hover_136
+    21300274: npc_letterblock_a__x1_hover_137
+    21300276: npc_letterblock_a__x1_hover_138
+    21300278: npc_letterblock_a__x1_hover_139
+    21300280: npc_letterblock_a__x1_hover_140
+    21300282: npc_letterblock_a__x1_hover_141
+    21300284: npc_letterblock_a__x1_hover_142
+    21300286: npc_letterblock_a__x1_hover_143
+    21300288: npc_letterblock_a__x1_hover_144
+    21300290: npc_letterblock_a_hover_0
+    21300292: npc_letterblock_a_hover_1
+    21300294: npc_letterblock_a_hover_2
+    21300296: npc_letterblock_a_hover_3
+    21300298: npc_letterblock_a_hover_4
+    21300300: npc_letterblock_a_hover_5
+    21300302: npc_letterblock_a_hover_6
+    21300304: npc_letterblock_a_hover_7
+    21300306: npc_letterblock_a_hover_8
+    21300308: npc_letterblock_a_hover_9
+    21300310: npc_letterblock_a_hover_10
+    21300312: npc_letterblock_a_hover_11
+    21300314: npc_letterblock_a_hover_12
+    21300316: npc_letterblock_a_hover_13
+    21300318: npc_letterblock_a_hover_14
+    21300320: npc_letterblock_a_hover_15
+    21300322: npc_letterblock_a_hover_16
+    21300324: npc_letterblock_a_hover_17
+    21300326: npc_letterblock_a_hover_18
+    21300328: npc_letterblock_a_hover_19
+    21300330: npc_letterblock_a_hover_20
+    21300332: npc_letterblock_a_hover_21
+    21300334: npc_letterblock_a_hover_22
+    21300336: npc_letterblock_a_hover_23
+    21300338: npc_letterblock_a_hover_24
+    21300340: npc_letterblock_a_hover_25
+    21300342: npc_letterblock_a_hover_26
+    21300344: npc_letterblock_a_hover_27
+    21300346: npc_letterblock_a_hover_28
+    21300348: npc_letterblock_a_hover_29
+    21300350: npc_letterblock_a_hover_30
+    21300352: npc_letterblock_a_hover_31
+    21300354: npc_letterblock_a_hover_32
+    21300356: npc_letterblock_a_hover_33
+    21300358: npc_letterblock_a_hover_34
+    21300360: npc_letterblock_a_hover_35
+    21300362: npc_letterblock_a_hover_36
+    21300364: npc_letterblock_a_hover_37
+    21300366: npc_letterblock_a_hover_38
+    21300368: npc_letterblock_a_hover_39
+    21300370: npc_letterblock_a_hover_40
+    21300372: npc_letterblock_a_hover_41
+    21300374: npc_letterblock_a_hover_42
+    21300376: npc_letterblock_a_hover_43
+    21300378: npc_letterblock_a_hover_44
+    21300380: npc_letterblock_a_hover_45
+    21300382: npc_letterblock_a_hover_46
+    21300384: npc_letterblock_a_hover_47
+    21300386: npc_letterblock_a_hover_48
+    21300388: npc_letterblock_a_hover_49
+    21300390: npc_letterblock_a_hover_50
+    21300392: npc_letterblock_a_hover_51
+    21300394: npc_letterblock_a_hover_52
+    21300396: npc_letterblock_a_hover_53
+    21300398: npc_letterblock_a_hover_54
+    21300400: npc_letterblock_a_hover_55
+    21300402: npc_letterblock_a_hover_56
+    21300404: npc_letterblock_a_hover_57
+    21300406: npc_letterblock_a_hover_58
+    21300408: npc_letterblock_a_hover_59
+    21300410: npc_letterblock_a_hover_60
+    21300412: npc_letterblock_a_hover_61
+    21300414: npc_letterblock_a_hover_62
+    21300416: npc_letterblock_a_hover_63
+    21300418: npc_letterblock_a_hover_64
+    21300420: npc_letterblock_a_hover_65
+    21300422: npc_letterblock_a_hover_66
+    21300424: npc_letterblock_a_hover_67
+    21300426: npc_letterblock_a_hover_68
+    21300428: npc_letterblock_a_hover_69
+    21300430: npc_letterblock_a_hover_70
+    21300432: npc_letterblock_a_hover_71
+    21300434: npc_letterblock_a_hover_72
+    21300436: npc_letterblock_a_hover_73
+    21300438: npc_letterblock_a_hover_74
+    21300440: npc_letterblock_a_hover_75
+    21300442: npc_letterblock_a_hover_76
+    21300444: npc_letterblock_a_hover_77
+    21300446: npc_letterblock_a_hover_78
+    21300448: npc_letterblock_a_hover_79
+    21300450: npc_letterblock_a_hover_80
+    21300452: npc_letterblock_a_hover_81
+    21300454: npc_letterblock_a_hover_82
+    21300456: npc_letterblock_a_hover_83
+    21300458: npc_letterblock_a_hover_84
+    21300460: npc_letterblock_a_hover_85
+    21300462: npc_letterblock_a_hover_86
+    21300464: npc_letterblock_a_hover_87
+    21300466: npc_letterblock_a_hover_88
+    21300468: npc_letterblock_a_hover_89
+    21300470: npc_letterblock_a_hover_90
+    21300472: npc_letterblock_a_hover_91
+    21300474: npc_letterblock_a_hover_92
+    21300476: npc_letterblock_a_hover_93
+    21300478: npc_letterblock_a_hover_94
+    21300480: npc_letterblock_a_hover_95
+    21300482: npc_letterblock_a_hover_96
+    21300484: npc_letterblock_a_hover_97
+    21300486: npc_letterblock_a_hover_98
+    21300488: npc_letterblock_a_hover_99
+    21300490: npc_letterblock_a_hover_100
+    21300492: npc_letterblock_a_hover_101
+    21300494: npc_letterblock_a_hover_102
+    21300496: npc_letterblock_a_hover_103
+    21300498: npc_letterblock_a_hover_104
+    21300500: npc_letterblock_a_hover_105
+    21300502: npc_letterblock_a_hover_106
+    21300504: npc_letterblock_a_hover_107
+    21300506: npc_letterblock_a_hover_108
+    21300508: npc_letterblock_a_hover_109
+    21300510: npc_letterblock_a_hover_110
+    21300512: npc_letterblock_a_hover_111
+    21300514: npc_letterblock_a_hover_112
+    21300516: npc_letterblock_a_hover_113
+    21300518: npc_letterblock_a_hover_114
+    21300520: npc_letterblock_a_hover_115
+    21300522: npc_letterblock_a_hover_116
+    21300524: npc_letterblock_a_hover_117
+    21300526: npc_letterblock_a_hover_118
+    21300528: npc_letterblock_a_hover_119
+    21300530: npc_letterblock_a_hover_120
+    21300532: npc_letterblock_a_hover_121
+    21300534: npc_letterblock_a_hover_122
+    21300536: npc_letterblock_a_hover_123
+    21300538: npc_letterblock_a_hover_124
+    21300540: npc_letterblock_a_hover_125
+    21300542: npc_letterblock_a_hover_126
+    21300544: npc_letterblock_a_hover_127
+    21300546: npc_letterblock_a_hover_128
+    21300548: npc_letterblock_a_hover_129
+    21300550: npc_letterblock_a_hover_130
+    21300552: npc_letterblock_a_hover_131
+    21300554: npc_letterblock_a_hover_132
+    21300556: npc_letterblock_a_hover_133
+    21300558: npc_letterblock_a_hover_134
+    21300560: npc_letterblock_a_hover_135
+    21300562: npc_letterblock_a_hover_136
+    21300564: npc_letterblock_a_hover_137
+    21300566: npc_letterblock_a_hover_138
+    21300568: npc_letterblock_a_hover_139
+    21300570: npc_letterblock_a_hover_140
+    21300572: npc_letterblock_a_hover_141
+    21300574: npc_letterblock_a_hover_142
+    21300576: npc_letterblock_a_hover_143
+    21300578: npc_letterblock_a_hover_144
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 600
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: npc_letterblock_a_hover_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 880
+        width: 101
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 880
+        width: 106
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_2
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 880
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 880
+        width: 101
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_4
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 880
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_5
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 880
+        width: 102
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_6
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 877
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_7
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 877
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_8
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 873
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_9
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 873
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_10
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 873
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_11
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 873
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_12
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 873
+        width: 101
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_13
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 873
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_14
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 873
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_15
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 873
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_16
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 873
+        width: 101
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_17
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 877
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_18
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 877
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_19
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 877
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_20
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 880
+        width: 101
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_21
+      rect:
+        serializedVersion: 2
+        x: 2917
+        y: 880
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_22
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 880
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_23
+      rect:
+        serializedVersion: 2
+        x: 3191
+        y: 880
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_24
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 880
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_25
+      rect:
+        serializedVersion: 2
+        x: 3469
+        y: 880
+        width: 101
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_26
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 880
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_27
+      rect:
+        serializedVersion: 2
+        x: 3746
+        y: 880
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_28
+      rect:
+        serializedVersion: 2
+        x: 3883
+        y: 880
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_29
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 685
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_30
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 681
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_31
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 681
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_32
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 681
+        width: 101
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_33
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 681
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_34
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 681
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_35
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 681
+        width: 102
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_36
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 681
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_37
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 681
+        width: 101
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_38
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 681
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_39
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 681
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_40
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 681
+        width: 105
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_41
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 685
+        width: 101
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_42
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 685
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_43
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 685
+        width: 106
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_44
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 689
+        width: 102
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_45
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 689
+        width: 101
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_46
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 689
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_47
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 689
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_48
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 689
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_49
+      rect:
+        serializedVersion: 2
+        x: 2781
+        y: 689
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_50
+      rect:
+        serializedVersion: 2
+        x: 2917
+        y: 689
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_51
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 689
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_52
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 689
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_53
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 685
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_54
+      rect:
+        serializedVersion: 2
+        x: 3469
+        y: 685
+        width: 101
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_55
+      rect:
+        serializedVersion: 2
+        x: 3609
+        y: 681
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_56
+      rect:
+        serializedVersion: 2
+        x: 3746
+        y: 677
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_57
+      rect:
+        serializedVersion: 2
+        x: 3883
+        y: 677
+        width: 101
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_58
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 478
+        width: 101
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_59
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 478
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_60
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 478
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_61
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 478
+        width: 101
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_62
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 478
+        width: 105
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_63
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 482
+        width: 102
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_64
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 482
+        width: 102
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_65
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 482
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_66
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 482
+        width: 101
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_67
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 486
+        width: 102
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_68
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 486
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_69
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 486
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_70
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 490
+        width: 101
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_71
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 490
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_72
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 490
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_73
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 490
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_74
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 490
+        width: 101
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_75
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 486
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_76
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 486
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_77
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 486
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_78
+      rect:
+        serializedVersion: 2
+        x: 2781
+        y: 486
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_79
+      rect:
+        serializedVersion: 2
+        x: 2917
+        y: 482
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_80
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 482
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_81
+      rect:
+        serializedVersion: 2
+        x: 3191
+        y: 482
+        width: 102
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_82
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 478
+        width: 101
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_83
+      rect:
+        serializedVersion: 2
+        x: 3469
+        y: 478
+        width: 101
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_84
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 478
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_85
+      rect:
+        serializedVersion: 2
+        x: 3742
+        y: 478
+        width: 106
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_86
+      rect:
+        serializedVersion: 2
+        x: 3883
+        y: 478
+        width: 101
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_87
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 283
+        width: 101
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_88
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 283
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_89
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 287
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_90
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 287
+        width: 101
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_91
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 291
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_92
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 291
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_93
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 291
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_94
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 291
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_95
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 295
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_96
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 295
+        width: 102
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_97
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 291
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_98
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 291
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_99
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 291
+        width: 101
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_100
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 291
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_101
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 291
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_102
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 291
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_103
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 291
+        width: 101
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_104
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 291
+        width: 105
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_105
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 287
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_106
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 287
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_107
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 287
+        width: 101
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_108
+      rect:
+        serializedVersion: 2
+        x: 2917
+        y: 287
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_109
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 287
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_110
+      rect:
+        serializedVersion: 2
+        x: 3191
+        y: 287
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_111
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 291
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_112
+      rect:
+        serializedVersion: 2
+        x: 3469
+        y: 291
+        width: 101
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_113
+      rect:
+        serializedVersion: 2
+        x: 3609
+        y: 291
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_114
+      rect:
+        serializedVersion: 2
+        x: 3746
+        y: 291
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_115
+      rect:
+        serializedVersion: 2
+        x: 3883
+        y: 295
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_116
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 100
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_117
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 100
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_118
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 103
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_119
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 103
+        width: 101
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_120
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 103
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_121
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 103
+        width: 102
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_122
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 103
+        width: 102
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_123
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 100
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_124
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 100
+        width: 101
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_125
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 100
+        width: 102
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_126
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 96
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_127
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 92
+        width: 105
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_128
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 92
+        width: 101
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_129
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 88
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_130
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 88
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_131
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 88
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_132
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 88
+        width: 101
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_133
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 88
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_134
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 88
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_135
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 88
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_136
+      rect:
+        serializedVersion: 2
+        x: 2781
+        y: 88
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_137
+      rect:
+        serializedVersion: 2
+        x: 2917
+        y: 92
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_138
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 92
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_139
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 92
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_140
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 96
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_141
+      rect:
+        serializedVersion: 2
+        x: 3469
+        y: 96
+        width: 101
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_142
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 96
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_143
+      rect:
+        serializedVersion: 2
+        x: 3746
+        y: 96
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_letterblock_a_hover_144
+      rect:
+        serializedVersion: 2
+        x: 3883
+        y: 100
+        width: 101
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
