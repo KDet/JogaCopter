@@ -1,5 +1,6 @@
 # JogaCopter
-Simple game to test UnityRx.
+Simple game to test UnityRx!
+
 
 You [![Screen Shot](https://raw.githubusercontent.com/KDet/JogaCopter/master/images/player.png)](https://github.com/KDet/JogaCopter)
 
@@ -32,7 +33,7 @@ Pick bonus items:
 
 [![Screen Shot](https://raw.githubusercontent.com/KDet/JogaCopter/master/images/1.png)](https://github.com/KDet/JogaCopter) - super shield for 20 sec
 
-### Screenshots
+## Screenshots
 [![Screen Shot](https://raw.githubusercontent.com/KDet/JogaCopter/master/images/Screenshot1.PNG)](https://github.com/KDet/JogaCopter)
 
 [![Screen Shot](https://raw.githubusercontent.com/KDet/JogaCopter/master/images/Screenshot2.png)](https://github.com/KDet/JogaCopter)
