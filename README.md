@@ -31,3 +31,26 @@ Pick bonus items:
 [![Screen Shot](https://raw.githubusercontent.com/KDet/JogaCopter/master/images/8.png)](https://github.com/KDet/JogaCopter) - shield for 10 sec
 
 [![Screen Shot](https://raw.githubusercontent.com/KDet/JogaCopter/master/images/1.png)](https://github.com/KDet/JogaCopter) - super shield for 20 sec
+
+### Screenshots
+[![Screen Shot](https://raw.githubusercontent.com/KDet/JogaCopter/master/images/Screenshot1.PNG)](https://github.com/KDet/JogaCopter)
+
+[![Screen Shot](https://raw.githubusercontent.com/KDet/JogaCopter/master/images/Screenshot2.png)](https://github.com/KDet/JogaCopter)
+
+[![Screen Shot](https://raw.githubusercontent.com/KDet/JogaCopter/master/images/Screenshot22.png)](https://github.com/KDet/JogaCopter)
+
+[![Screen Shot](https://raw.githubusercontent.com/KDet/JogaCopter/master/images/Screenshot3.PNG)](https://github.com/KDet/JogaCopter)
+
+[![Screen Shot](https://raw.githubusercontent.com/KDet/JogaCopter/master/images/Screenshot4.PNG)](https://github.com/KDet/JogaCopter)
+
+[![Screen Shot](https://raw.githubusercontent.com/KDet/JogaCopter/master/images/Screenshot5.png)](https://github.com/KDet/JogaCopter)
+
+[![Screen Shot](https://raw.githubusercontent.com/KDet/JogaCopter/master/images/Screenshot6.png)](https://github.com/KDet/JogaCopter)
+
+[![Screen Shot](https://raw.githubusercontent.com/KDet/JogaCopter/master/images/Screenshot7.png)](https://github.com/KDet/JogaCopter)
+
+[![Screen Shot](https://raw.githubusercontent.com/KDet/JogaCopter/master/images/Screenshot8.png)](https://github.com/KDet/JogaCopter)
+
+[![Screen Shot](https://raw.githubusercontent.com/KDet/JogaCopter/master/images/Screenshot9.png)](https://github.com/KDet/JogaCopter)
+
+[![Screen Shot](https://raw.githubusercontent.com/KDet/JogaCopter/master/images/Screenshot10.png)](https://github.com/KDet/JogaCopter)
